@@ -16,3 +16,4 @@ no      name    score1  score2  score3  average
         average 3.8     3.4     3.6
         min     2       2       1
         max     5       5       5
+
